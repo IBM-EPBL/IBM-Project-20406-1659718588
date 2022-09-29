@@ -1,0 +1,48 @@
+.align{
+    background-image: url("Banner.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  img{
+      position: relative;
+      top: -50px;
+      left: 540px;
+      border: white 2px solid ;
+  }
+  
+  .bg{
+      background-color: aliceblue;
+      width:800px;
+      height:1200px;
+      margin-left: 25%;
+      margin-right: 25%;
+      padding-left: 50px;
+      padding-right: 50px;
+  }
+  
+  hr{
+      border-color: rgb(72, 177, 238);
+  }
+  
+  h3{
+      color:rgb(20, 113, 167) ;
+  }
+  
+  h1{
+      color: rgb(11, 64, 133);
+      position:relative;
+      left: 200px;
+      top: 75px;
+  }
+  
+  .marg{
+      margin-inline-start: 10px;
+  }
+  
+  .p-align{
+      color: rgb(5, 43, 94);
+      position:relative;
+      left: 205px;
+      top: 75px;
+  }
