@@ -1,0 +1,40 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+    {% block head %} {% endblock %}
+</head>
+
+<body>
+    <link rel="stylesheet" href="static/css/style.css">
+    <nav class="navbar bg-light" >
+        <div class="container">
+          <a class="navbar-brand" href="/">
+            <img src="static\img\home.png" alt="Bootstrap" width="30" height="24">
+          </a>
+          <a class="navbar-brand" href="/blog">
+            <img src="static\img\blog.jpg" alt="Bootstrap" width="30" height="24">
+          </a>
+          <a class="navbar-brand" href="/about">
+            <img src="static\img\about.png" alt="Bootstrap" width="30" height="24">
+          </a>
+          <a class="navbar-brand" href="/signin">
+            <img src="static\img\signin.png" alt="Bootstrap" width="30" height="24">
+          </a>
+          <a class="navbar-brand" href="/signup">
+            <img src="static\img\signup.png" alt="Bootstrap" width="30" height="24">
+          </a>
+        </div>
+      </nav>
+      
+
+    {% block body %} {% endblock %}
+</body>
+
+</html>
