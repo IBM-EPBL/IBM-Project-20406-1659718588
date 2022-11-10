@@ -1,0 +1,15 @@
+.body{
+    background-color: black;
+}
+
+h3 {
+    color:rgb(133, 133, 231);
+    text-align: center;
+}
+img{
+    position: relative;
+    left: 45%;
+}
+h3 span{
+    color: yellow;
+}
