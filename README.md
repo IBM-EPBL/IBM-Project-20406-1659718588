@@ -12,6 +12,8 @@ TEAM ID : PNT2022TMIDO2461
  - Sriraman
  - Yuvanesh
 ```
+<img width="334" alt="images" src="https://user-images.githubusercontent.com/69951869/201561625-e187ee4d-c560-4dd2-aaad-fd14a5459842.png">
+
 ## 📒PROJECT DESCRIPTION:
 ```text
 Due to the ignorance of healthy food habits, obesity rates are increasing at an alarming speed, and this is reflective of the risks to people’s health. 
