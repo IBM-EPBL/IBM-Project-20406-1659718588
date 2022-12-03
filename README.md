@@ -1,7 +1,5 @@
 # IBM-Project-20406-1659718588
 
-![Frame 1 (1)](https://github.com/IBM-EPBL/IBM-Project-18366-1659684009/blob/main/.github/!.PNG)
-
 # Nutrition Assistant Application
 ```text
 TECHNOLOGY : Cloud Application 
