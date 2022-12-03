@@ -37,6 +37,27 @@ Nutritional information of the analyzed image is returned to the app for display
 
 ![Untitled](https://lh5.googleusercontent.com/HptOGv0lSRnQb1--uqUV-lbXaDQwuSqggE0tHdCTwTBqLVJM5aTd0FIYPhdhsRRwMLA56hW881qT6Ys-6-bqMuEJGlrJLEU8YOLsz5fCg43Mp9YN2vHcR_letaL9jw)
 
+## Sprint Breakdown
+### Sprint 1
+```text
+    - Upload image page
+   
+```
+### Sprint 2
+```text
+    - Home page
+    
+```
+    
+### Sprint 3
+```text
+   - Login amd signup
+```
+
+### Sprint 4
+```text
+  - History of items
+```
 ### Project Demo Link
 https://drive.google.com/file/d/1GAcdECwF7gC6cO8u5s4alS5hSs7zGkiB/view?usp=share_link
 
